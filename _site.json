@@ -1,0 +1,14 @@
+{
+ "built": "2026-11-14T22:22:59Z",
+ "bt": 1794694979,
+ "seed": 20261114,
+ "data": "rabbit",
+ "role": "volumes",
+ "part": 2,
+ "of": 2,
+ "base": "https://midnight-archive-vrc.github.io/ma-testbed-b/",
+ "main": "https://midnight-archive-vrc.github.io/ma-testbed/",
+ "first_vol": 13776,
+ "volumes": 20659,
+ "credits": "https://midnight-archive-vrc.github.io/ma-testbed/credits.html"
+}
